@@ -8,4 +8,4 @@ https://app.patika.dev/gokberkkulac
 
 ### ANSWER ###
 
-![GitHub]https://github.com/GokberkKulac/Binary-Search-Tree-Projesi/blob/main/BI%CC%87NARY.png
+![GitHub](https://github.com/GokberkKulac/Binary-Search-Tree-Projesi/blob/main/BI%CC%87NARY.png)
